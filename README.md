@@ -1,5 +1,5 @@
 # GREScore: Evaluate Generative Relation Extraction
-This repository is the official implementation of [GREScore: Evaluate Generative Relation Extraction](). 
+This repository is the official implementation of [GREScore: Evaluate Generative Relation Extraction](https://arxiv.org/abs/2402.10744). 
 
 ## Requirements and Installation
 
